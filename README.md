@@ -8,13 +8,15 @@
 [![ONNX Runtime](https://img.shields.io/badge/ONNX-Runtime-green.svg)](https://onnxruntime.ai/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 </div>
----
+
+
+
 
 ## 📖 Overview
 
 This project implements a **1.1 Billion parameter Large Language Model** (TinyLlama) optimized for real-time execution on low-resource consumer hardware. It serves as the **Local Privacy Engine** for the Loan Buddy project, enabling offline analysis of sensitive financial documents like bank statements and KYC data without cloud dependency.
 
----
+
 
 ## 🎯 Key Features
 
@@ -91,6 +93,22 @@ pip install -r requirements.txt
 ```bash
 streamlit run src/app.py
 ```
+
+---
+
+## 📸 Screenshots
+
+### Dashboard Overview
+<div align="center">
+  <img src="assets/ui_overview.jpeg" alt="TinyLlama Dashboard" width="800"/>
+  <p><em>Full Streamlit interface with chat and real-time metrics</em></p>
+</div>
+
+### Live MLOps Metrics
+<div align="center">
+  <img src="assets/dashboard_mlops.jpeg" alt="MLOps Metrics Panel" width="300"/>
+  <p><em>Real-time RAM usage and inference speed monitoring</em></p>
+</div>
 
 ---
 
