@@ -1,5 +1,5 @@
 <div align="center">
-🦙 TinyLlama CPU Inference Engine
+<h1>🦙 TinyLlama CPU Inference Engine
 
 > A high-performance local intelligence module for private financial automation
 
