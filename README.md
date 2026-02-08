@@ -2,12 +2,12 @@
 # 🦙 TinyLlama CPU Inference Engine
 
 > A high-performance local intelligence module for private financial automation
-</div>
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![ONNX Runtime](https://img.shields.io/badge/ONNX-Runtime-green.svg)](https://onnxruntime.ai/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
+</div>
 ---
 
 ## 📖 Overview
