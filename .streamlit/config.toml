@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A2C2E1"           # Pastel Blue for buttons/sliders
+backgroundColor = "#FDFDFD"        # Off-White background
+secondaryBackgroundColor = "#F0F4F8" # Light Pastel Blue for sidebar
+textColor = "#2C3E50"              # Deep Navy for readable text
+font = "sans serif"

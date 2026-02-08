@@ -1,0 +1,18 @@
+# --- Python Environment ---
+venv/
+__pycache__/
+*.pyc
+
+# --- Model Data (Critical: Too large for GitHub) ---
+# Ignores the 700MB+ ONNX files and tokenizer cache
+models/onnx/*.onnx
+models/.cache/
+
+# --- System & IDE Files ---
+.vscode/
+.DS_Store
+Thumbs.db
+
+# --- Loan Buddy Integration ---
+# Ignores any local logs or temporary data
+*.log
